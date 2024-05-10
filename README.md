@@ -30,9 +30,8 @@ A how-to install tutorial for the open-source help desk ticketing system osTicke
 <h2>Installation Steps</h2>
 
 <p>
-[![image](https://github.com/cn205000/osticket-prereqs/assets/51296808/660b2539-8d2f-424e-b1db-758023dd456b)](https://github-production-user-asset-6210df.s3.amazonaws.com/51296808/329731992-660b2539-8d2f-424e-b1db-758023dd456b.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240510%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240510T223723Z&X-Amz-Expires=300&X-Amz-Signature=9f6e1521228541fd6b888f2594c6b977866666136e72a7ae4e1bd145a9dc41c4&X-Amz-SignedHeaders=host&actor_id=51296808&key_id=0&repo_id=798852986)
+[image](https://github.com/cn205000/osticket-prereqs/assets/51296808/6d50084b-0b0f-4dfb-84ea-ae496f62d552)
 
-"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
