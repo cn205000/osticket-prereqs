@@ -10,7 +10,7 @@ A how-to install tutorial for the open-source help desk ticketing system osTicke
 - Stable Internet Connection
 - Internet Browser
 - OS: Windows 10 or older
-- <a href="https://drive.google.com/drive/u/2/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6">Installation Files</a>☺</h3>
+- <a href="https://drive.google.com/drive/u/2/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6">Installation Files</a></h3>
 - Item 5
 
 <h2>Environments and Technologies Used</h2>
