@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Installation</h1>
-A How to tutorial for how to install the open-source help desk ticketing system osTicket.<br />
+A how-to tutorial for  the open-source help desk ticketing system osTicket.<br />
 
 
 <h2>Video Demonstration</h2>
