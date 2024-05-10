@@ -9,7 +9,7 @@ A how-to install tutorial for the open-source help desk ticketing system osTicke
 
 - Stable Internet Connection
 - Internet Browser
-- Item 3
+- OS: Windows 10 or older
 - Item 4
 - Item 5
 
