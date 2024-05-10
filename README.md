@@ -8,14 +8,14 @@ A how-to install tutorial for the open-source help desk ticketing system osTicke
 <h2>List of Prerequisites</h2>
 
 - Stable Internet Connection
-- Item 2
+- Internet Browser
 - Item 3
 - Item 4
 - Item 5
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
+- Microsoft Azure (Virtual Machines/Computer)
 - Remote Desktop
 - Internet Information Services (IIS)
 
