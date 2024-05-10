@@ -30,7 +30,8 @@ A how-to install tutorial for the open-source help desk ticketing system osTicke
 <h2>Installation Steps</h2>
 
 <p>
-<![image](https://github.com/cn205000/osticket-prereqs/assets/51296808/244c6535-56ce-4341-9026-1cca180bd9bc)
+![image](https://github.com/cn205000/osticket-prereqs/assets/51296808/660b2539-8d2f-424e-b1db-758023dd456b)
+
 "/>
 </p>
 <p>
