@@ -29,6 +29,8 @@ A how-to install tutorial for the open-source help desk ticketing system osTicke
   
 <h1>Installation Steps</h1>
 
+<h2>Step 1: Install/Enable IIS</h2>
+
 Hit the windows key and search for Control Panel. Click on Programs then click on Turn Windows Features on or off.
 It will open a new window, enable these features below.
 
@@ -41,21 +43,21 @@ It will open a new window, enable these features below.
        - [X] Common HTTP Features
 
 
-</h2>Step 1: Install/Enable IIS</h2>
+<h2>Step 1: Install/Enable IIS</h2>
 
 
 
-</h2>Step 2: Create PHP Directory</h2>
+<h2>Step 2: Create PHP Directory</h2>
 
 
 
-</h2>Step 3: Download & Install Files</h2>
+<h2>Step 3: Download & Install Files</h2>
 
 
 
-</h2>Step 4: Configure IIS</h2>
+<h2>Step 4: Configure IIS</h2>
 
 
 
-</h2>Step 5: Setup OSTicket</h2>
+<h2>Step 5: Setup OSTicket</h2>
 
