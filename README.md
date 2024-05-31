@@ -27,29 +27,35 @@ A how-to install tutorial for the open-source help desk ticketing system osTicke
 
 - ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
   
-<h2>Installation Steps</h2>
+<h1>Installation Steps</h1>
 
-<p>
-[image](https://github.com/cn205000/osticket-prereqs/assets/51296808/6d50084b-0b0f-4dfb-84ea-ae496f62d552)
+Hit the windows key and search for Control Panel. Click on Programs then click on Turn Windows Features on or off.
+It will open a new window, enable these features below.
 
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+- [X] Internet Information Services
+  - [X] Web Management Tools
+     - [X] IIS Management Console
+  - [X]  World Wide Web Services
+    - [X]  Application Development Features ->
+       - [X] CGI
+       - [X] Common HTTP Features
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+</h2>Step 1: Install/Enable IIS</h2>
+
+
+
+</h2>Step 2: Create PHP Directory</h2>
+
+
+
+</h2>Step 3: Download & Install Files</h2>
+
+
+
+</h2>Step 4: Configure IIS</h2>
+
+
+
+</h2>Step 5: Setup OSTicket</h2>
+
