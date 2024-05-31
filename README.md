@@ -43,10 +43,6 @@ It will open a new window, enable these features below.
        - [X] Common HTTP Features
 
 
-<h2>Step 1: Install/Enable IIS</h2>
-
-
-
 <h2>Step 2: Create PHP Directory</h2>
 
 
