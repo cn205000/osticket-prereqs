@@ -44,11 +44,11 @@ It will open a new window, enable these features below.
 
 
 <h2>Step 2: Create PHP Directory</h2>
-
+Hit the windows key and search for file explorer. Open it and look on the left side of the window for This PC. Click on it then open the drive that says (C:). Right click on the empty space, hover over new then click on Folder. Right click the new folder that you just made and click on rename. Rename the file to PHP.
 
 
 <h2>Step 3: Download & Install Files</h2>
-
+Scroll up to the Installation Files
 
 
 <h2>Step 4: Configure IIS</h2>
