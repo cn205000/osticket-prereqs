@@ -48,7 +48,7 @@ Hit the windows key and search for file explorer. Open it and look on the left s
 
 
 <h2>Step 3: Download & Install Files</h2>
-Scroll up to the Installation Files
+Scroll up to the Installation Files and open the link. Download all the files
 
 
 <h2>Step 4: Configure IIS</h2>
