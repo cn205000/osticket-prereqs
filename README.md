@@ -49,7 +49,7 @@ Hit the windows key and search for file explorer. Open it and look on the left s
 
 
 <h2>Step 3: Download & Install Files</h2>
-Scroll up to the Installation Files and open the link. Download all the files.
+Scroll up to the Installation Files and open the link. Download all the files. First we are going to launch PHPManagerForIIS_V1.5.0.msi. Go through the installation by just hitting next and accepting the terms & conditions. Next we are going to launch rewrite_amd64_en-US.msi. Do the same thing you did with the first installation.
 
 
 <h2>Step 4: Configure IIS</h2>
