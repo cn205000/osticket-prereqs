@@ -49,7 +49,7 @@ Hit the windows key and search for file explorer. Open it and look on the left s
 
 
 <h2>Step 3: Download & Install Files</h2>
-Scroll up to the Installation Files and open the link. Download all the files. First we are going to launch PHPManagerForIIS_V1.5.0.msi. Go through the installation by just hitting next and accepting the terms & conditions. Next we are going to launch rewrite_amd64_en-US.msi. Do the same thing you did with the first installation.
+Scroll up to the Installation Files and open the link. Download all the files. First we are going to launch PHPManagerForIIS_V1.5.0.msi. Go through the installation by just hitting next and accepting the terms & conditions. Next we are going to launch rewrite_amd64_en-US.msi. Do the same thing you did with the first installation. Next we are going to look for php-7.3.8-nts-Win32-VC15-x86.zip. Once you find it, right click and select extract. It will bring up a window, you want to hit browse and now we are going to look for the PHP Folder we created earlier. Go to this pc and select (C:) and open the PHP folder then hit select folder in the bottom right.
 
 
 <h2>Step 4: Configure IIS</h2>
